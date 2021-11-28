@@ -36,37 +36,30 @@ int menu()
 
 int validarNumCadenas(char* name, int tam)
 {
-    int todoOk= 0;
     int okey;
-    int error = 1;
+    int error = 0;
 
     if(name != NULL && tam > 0)
     {
-        do{
             error=0;
             for(int i = 0; i < tam; i++)
             {
                 okey = isalpha(name[i]);
                 if(okey == 0)
                 {
-                    printf("Error. Ingreso con caracteres invalidos. Ingrese nuevamente: ");
-                    gets(name);
-                    tam=strlen(name);
                     error = 1;
                 }
             }
 
-        }while(error == 1);
-
-        todoOk=1;
     }
-    return todoOk;
+    return error;
 }
 int pedirCadena(char cadena[], int tam, char mensajeUno[], char mensajeError[])
 {
     int todoOk =0;
     char entrada[256];
     int tamEntrada;
+    int error;
 
     if(cadena != NULL && tam > 0 && mensajeUno != NULL && mensajeError != NULL)
     {
@@ -75,18 +68,19 @@ int pedirCadena(char cadena[], int tam, char mensajeUno[], char mensajeError[])
         gets(entrada);
         tamEntrada = strlen(entrada);
 
-        validarNumCadenas(entrada, tamEntrada);
+        error=validarNumCadenas(entrada, tamEntrada);
 
-        while(tamEntrada > tam || tamEntrada <= 2)
+        while(tamEntrada > tam || tamEntrada <= 2 || error == 1)
         {
             printf("%s", mensajeError);
             fflush(stdin);
             gets(entrada);
             tamEntrada=strlen(entrada);
+            error=validarNumCadenas(entrada, tamEntrada);
         }
 
+
         strcpy(cadena, entrada);
-	    
         todoOk=1;
     }
 
