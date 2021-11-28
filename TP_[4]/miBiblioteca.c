@@ -96,7 +96,7 @@ int pedirCadena(char cadena[], int tam, char mensajeUno[], char mensajeError[])
 
         error=validarNumCadenas(entrada, tamEntrada);
 
-        while(tamEntrada > tam || tamEntrada <= 2 || error == 1)
+        while(tamEntrada > tam || tamEntrada <= 3 || error == 1)
         {
             printf("%s", mensajeError);
             fflush(stdin);
@@ -109,7 +109,6 @@ int pedirCadena(char cadena[], int tam, char mensajeUno[], char mensajeError[])
         strcpy(cadena, entrada);
         todoOk=1;
     }
-    return todoOk;
 }
 
 int pedirFlotante(float* numero, char mensajeUno[], char mensajeError[], float min, float max)
