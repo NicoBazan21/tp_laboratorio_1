@@ -77,7 +77,7 @@ int pedirCadena(char cadena[], int tam, char mensajeUno[], char mensajeError[])
 
         validarNumCadenas(entrada, tamEntrada);
 
-        while(tamEntrada > tam || tamEntrada < 1)
+        while(tamEntrada > tam || tamEntrada <= 2)
         {
             printf("%s", mensajeError);
             fflush(stdin);
