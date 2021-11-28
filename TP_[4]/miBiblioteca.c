@@ -109,6 +109,7 @@ int pedirCadena(char cadena[], int tam, char mensajeUno[], char mensajeError[])
         strcpy(cadena, entrada);
         todoOk=1;
     }
+return todoOk;
 }
 
 int pedirFlotante(float* numero, char mensajeUno[], char mensajeError[], float min, float max)
