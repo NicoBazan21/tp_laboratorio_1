@@ -61,7 +61,7 @@ int controller_loadFromBinary(char* path , LinkedList* pArrayListEmployee)
 			}
 			else
 			{
-				printf("No hay ningun archivo de tipo binario para cargar.\n");
+				printf("No se pudo cargar el archivo\n");
 			}
 		}
 		fclose(f);
@@ -245,7 +245,7 @@ int controller_editEmployee(LinkedList* pArrayListEmployee)
 							}
 							break;
 						default:
-							printf("Opcion invalidaºn");
+							printf("Opcion invalidaÂºn");
 							break;
 				}
 			}while(confirmar == 'n');
