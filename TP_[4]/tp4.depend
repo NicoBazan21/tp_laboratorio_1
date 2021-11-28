@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1637322662 source:c:\users\rene\desktop\memoria dinamica\nose\tp4\linkedlist.c
+	"linkedList.h"
+	"personas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637322675 c:\users\rene\desktop\memoria dinamica\nose\tp4\linkedlist.h
+
+1637322974 source:c:\users\rene\desktop\memoria dinamica\nose\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"linkedList.h"
+	"personas.h"
+
+1637322784 source:c:\users\rene\desktop\memoria dinamica\nose\tp4\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"personas.h"
+
+1637322712 c:\users\rene\desktop\memoria dinamica\nose\tp4\personas.h
+
+1637323006 source:c:\users\rene\desktop\memoria dinamica\nose\tp4\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"archivos.h"
+	"personas.h"
+
+1637322991 c:\users\rene\desktop\memoria dinamica\nose\tp4\archivos.h
+	"linkedList.h"
+
+1637351774 source:c:\users\rene\desktop\memoria dinamica\nose\tp4 - copia\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"archivos.h"
+	"personas.h"
+	"miBiblioteca.h"
+
+1637336326 c:\users\rene\desktop\memoria dinamica\nose\tp4 - copia\archivos.h
+	"linkedList.h"
+
+1637337341 c:\users\rene\desktop\memoria dinamica\nose\tp4 - copia\linkedlist.h
+
+1637353255 c:\users\rene\desktop\memoria dinamica\nose\tp4 - copia\personas.h
+
+1637339259 source:c:\users\rene\desktop\memoria dinamica\nose\tp4 - copia\linkedlist.c
+	"linkedList.h"
+	"personas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637352880 source:c:\users\rene\desktop\memoria dinamica\nose\tp4 - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"linkedList.h"
+	"personas.h"
+	"archivos.h"
+	"miBiblioteca.h"
+	"implementacion.h"
+
+1637335060 source:c:\users\rene\desktop\memoria dinamica\nose\tp4 - copia\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"personas.h"
+
+1637350037 source:c:\users\rene\desktop\memoria dinamica\nose\tp4 - copia\mibiblioteca.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637354242 c:\users\rene\desktop\memoria dinamica\nose\tp4 - copia\mibiblioteca.h
+
+1637352517 source:c:\users\rene\desktop\memoria dinamica\nose\tp4 - copia\implementacion.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"linkedList.h"
+	"personas.h"
+	"archivos.h"
+	"miBiblioteca.h"
+
+1637351959 c:\users\rene\desktop\memoria dinamica\nose\tp4 - copia\implementacion.h
+
+1637351774 source:c:\users\rene\desktop\subir\tp_[4]\archivos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"archivos.h"
+	"personas.h"
+	"miBiblioteca.h"
+
+1637336326 c:\users\rene\desktop\subir\tp_[4]\archivos.h
+	"linkedList.h"
+
+1637337341 c:\users\rene\desktop\subir\tp_[4]\linkedlist.h
+
+1637353255 c:\users\rene\desktop\subir\tp_[4]\personas.h
+
+1637354242 c:\users\rene\desktop\subir\tp_[4]\mibiblioteca.h
+
+1637352517 source:c:\users\rene\desktop\subir\tp_[4]\implementacion.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"linkedList.h"
+	"personas.h"
+	"archivos.h"
+	"miBiblioteca.h"
+
+1637339259 source:c:\users\rene\desktop\subir\tp_[4]\linkedlist.c
+	"linkedList.h"
+	"personas.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637607013 source:c:\users\rene\desktop\subir\tp_[4]\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"linkedList.h"
+	"personas.h"
+	"archivos.h"
+	"miBiblioteca.h"
+	"implementacion.h"
+
+1637606998 c:\users\rene\desktop\subir\tp_[4]\implementacion.h
+
+1637350037 source:c:\users\rene\desktop\subir\tp_[4]\mibiblioteca.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1637610990 source:c:\users\rene\desktop\subir\tp_[4]\personas.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"personas.h"
+

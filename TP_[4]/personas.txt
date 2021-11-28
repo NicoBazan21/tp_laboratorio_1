@@ -1,0 +1,6 @@
+id,nombre,sexo,altura
+1,fabio,m,1.75
+2,malena,f,1.65
+3,sergio,m,1.85
+4,sofia,f,1.60
+5,donato,m,1.68

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="linkedList.c" open="1" top="0" tabpos="21" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13785" topLine="495" />
+		</Cursor>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="19" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7165" topLine="222" />
+		</Cursor>
+	</File>
+	<File name="miBiblioteca.h" open="1" top="0" tabpos="27" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1676" topLine="66" />
+		</Cursor>
+	</File>
+	<File name="personas.h" open="1" top="0" tabpos="23" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1110" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="archivos.h" open="1" top="0" tabpos="25" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="151" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="archivos.c" open="1" top="0" tabpos="24" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10712" topLine="463" />
+		</Cursor>
+	</File>
+	<File name="personas.c" open="1" top="0" tabpos="22" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5181" topLine="260" />
+		</Cursor>
+	</File>
+	<File name="linkedList.h" open="1" top="0" tabpos="20" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="2" />
+		</Cursor>
+	</File>
+	<File name="implementacion.c" open="1" top="0" tabpos="28" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18743" topLine="279" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="24" />
+			<Collapse line="47" />
+			<Collapse line="221" />
+			<Collapse line="322" />
+			<Collapse line="384" />
+			<Collapse line="398" />
+			<Collapse line="411" />
+			<Collapse line="564" />
+			<Collapse line="586" />
+			<Collapse line="618" />
+			<Collapse line="676" />
+		</Folding>
+	</File>
+	<File name="implementacion.h" open="1" top="0" tabpos="29" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="161" topLine="1" />
+		</Cursor>
+	</File>
+	<File name="miBiblioteca.c" open="1" top="0" tabpos="26" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1683" topLine="209" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

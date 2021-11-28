@@ -1,0 +1,8 @@
+id,nombre,sexo,altura
+1,pepito,m,1.80
+2,sara,f,1.45
+3,chimuelo,m,1.69
+4,fruncia,f,1.60
+5,roberta,f,1.68
+6,salketepego,m,2.50
+7,yogur,f,1.50

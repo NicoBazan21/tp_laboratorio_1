@@ -1,0 +1,6 @@
+id,nombre,sexo,altura
+1,matias,m,1.75
+2,rocio,f,1.65
+3,esteban,m,1.85
+4,julieta,f,1.60
+5,paragua,m,1.68
