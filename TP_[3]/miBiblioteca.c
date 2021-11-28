@@ -86,6 +86,7 @@ int pedirCadena(char cadena[], int tam, char mensajeUno[], char mensajeError[])
         }
 
         strcpy(cadena, entrada);
+	    
         todoOk=1;
     }
 
